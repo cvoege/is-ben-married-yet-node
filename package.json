@@ -1,0 +1,16 @@
+{
+  "name": "is-ben-married-yet",
+  "version": "1.0.1",
+  "description": "Is Ben married yet?",
+  "main": "index.js",
+  "repository": "https://github.com/cvoege/is-ben-married-yet",
+  "homepage": "https://isbenmarriedyet.com/",
+  "author": "Colton Voege <cvoege@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "is-ben-married-yet": "./index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
